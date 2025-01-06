@@ -38,12 +38,3 @@ Las siguientes tecnologías fueron utilizadas en el desarrollo de la API REST de
 - **[Flyway](https://flywaydb.org)**
 - **[Lombok](https://projectlombok.org)**
 
----
-
-## 📝 Licencia
-
-Proyecto desarrollado por [Alura](https://www.aluracursos.com/) y utilizado en cursos de Spring Boot.
-
-Desarrollado por: [Rodrigo Ferreira](https://www.linkedin.com/in/rcaneppele/?locale=en_US)
-Adaptado a español por: [Génesys Rondon](https://app.aluracursos.com/user/genesys-rondon)
----
